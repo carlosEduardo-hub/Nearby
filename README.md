@@ -47,9 +47,9 @@ Siga as instruções abaixo para executar o projeto em sua máquina.
     *   Dentro da pasta `services`, localize o arquivo responsável pela configuração da API.
     *   Altere a variável `baseURL` para o IP da sua máquina, seguido pela porta 3333. Exemplo:
     ```javascript
-     baseURL: "http://192.168.100.3:3333"
+     baseURL: "http://195.178.200.3:3333"
     ```
-    **Atenção:** Substitua `192.168.100.3` pelo IP da sua máquina na rede local.
+    **Atenção:** Substitua `195.178.200.3` pelo IP da sua máquina na rede local.
 2.  **Navegue até a pasta da aplicação mobile:**
     ```bash
     cd ../mobile
